@@ -122,4 +122,6 @@
     Controller(model=model, view=view)
     ```
 
-8. Update redeme.md file
+8. Update readme.md file
+
+### Hurry...!!! Here you can ready with calculator app
